@@ -1,0 +1,20 @@
+{
+  "Fatura": [
+    {
+      "Cliente": ""
+    },
+    {
+      "document": [
+        {
+          "salesItems": "",
+          "unitPrice": {
+            "amount": "0.1"
+          }
+        }
+      ]
+    },
+    {
+      "valorOrcamento": ""
+    }
+  ]
+}

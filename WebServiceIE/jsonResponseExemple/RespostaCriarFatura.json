@@ -1,0 +1,11 @@
+{
+  "Fatura": [
+    {
+      "document": [
+        { "salesItems": "DISCO_FERODO_FDB1790", "unitPrice": { "amount": 1 } },
+        { "salesItems": "CORREIA_GATES_6284MC", "unitPrice": { "amount": 1 } }
+      ],
+      "valorOrcamento": 169.99
+    }
+  ]
+}
